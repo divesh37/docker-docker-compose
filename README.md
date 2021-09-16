@@ -1,4 +1,4 @@
-# docker-docker-compose
+# docker & docker-compose
 Install docker and docker-compose using shell script
 
 Step 1.
